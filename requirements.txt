@@ -1,0 +1,19 @@
+# Manipulação & Análise de Dados
+pandas
+numpy
+
+# Consumo de APIs & Extração (ETL)
+requests
+
+# Banco de Dados & SQL
+sqlalchemy
+psycopg2-binary
+
+# Cloud Storage (AWS S3)
+boto3
+python-dotenv
+
+# Visualização de Dados & Ambiente Interativo
+matplotlib
+seaborn
+jupyter

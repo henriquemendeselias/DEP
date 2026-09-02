@@ -1,0 +1,13 @@
+# Ambientes Virtuais (Virtual Environments)
+.venv/
+venv/
+env/
+ENV/
+
+# Byte-compiled / cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de ambiente e variáveis
+.env
