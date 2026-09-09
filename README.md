@@ -59,9 +59,15 @@ pip install -r requirements.txt
 
 ```text
 DEP/
-├── .gitignore          # Arquivos e diretórios ignorados pelo Git
-├── README.md           # Documentação e apresentação do repositório
-└── requirements.txt    # Lista de dependências Python
+├── .gitignore                      # Arquivos e diretórios ignorados pelo Git
+├── README.md                       # Documentação principal do repositório
+├── requirements.txt                # Dependências Python do projeto
+│
+├── estudos/                        # 📚 Anotações, cursos e exercícios práticos
+│   ├── 01_python_dados/            # NumPy, Pandas e Matplotlib/Seaborn
+│   └── 02_power_bi/                # Power BI
+│
+└── projetos/                       # 🚀 Projetos práticos completos (end-to-end)
 ```
 
 ---

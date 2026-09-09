@@ -9,5 +9,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Arquivos temporários do Office e Power BI
+~$*.xlsx
+~$*.docx
+*.tmp
+
 # Arquivos de ambiente e variáveis
 .env
