@@ -68,6 +68,7 @@ DEP/
 │   └── 02_power_bi/                # Power BI
 │
 └── projetos/                       # 🚀 Projetos práticos completos (end-to-end)
+    └── power_bi/                   # Dashboard de Clientes e Funcionários
 ```
 
 ---
