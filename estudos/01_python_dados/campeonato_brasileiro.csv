@@ -1,0 +1,46 @@
+Horário,Dia,Data,Clube 1,Clube 2,Vencedor,Rodada,Arena,Clube 1 Gols,Clube 2 Gols,Clube 1 Estado,Clube 2 Estado,Estado Clube Vencedor
+16:00,Domingo,13/04/2025,Flamengo,Bahia,Flamengo,1,Maracanã,3,1,RJ,BA,RJ
+21:30,Sábado,12/04/2025,Internacional,Fluminense,Internacional,1,Beira-Rio,2,1,RS,RJ,RS
+16:00,Sábado,12/04/2025,Palmeiras,Grêmio,Palmeiras,1,Allianz Parque,2,1,SP,RS,SP
+21:30,Domingo,13/04/2025,Cruzeiro,Corinthians,Empate,1,Mineirão,1,1,MG,SP,Empate
+18:30,Domingo,13/04/2025,São Paulo,Atlético-MG,São Paulo,1,MorumBIS,3,1,SP,MG,SP
+20:00,Domingo,20/04/2025,Internacional,Flamengo,Internacional,2,Beira-Rio,3,1,RS,RJ,RS
+18:30,Sábado,19/04/2025,Bahia,Grêmio,Bahia,2,Arena Fonte Nova,2,1,BA,RS,BA
+21:30,Domingo,20/04/2025,Cruzeiro,Fluminense,Fluminense,2,Mineirão,0,2,MG,RJ,RJ
+16:00,Domingo,20/04/2025,Palmeiras,Atlético-MG,Empate,2,Allianz Parque,0,0,SP,MG,Empate
+16:00,Domingo,20/04/2025,São Paulo,Corinthians,Empate,2,MorumBIS,1,1,SP,SP,Empate
+21:30,Domingo,27/04/2025,Flamengo,Grêmio,Flamengo,3,Maracanã,1,0,RJ,RS,RJ
+19:00,Sábado,26/04/2025,Cruzeiro,Internacional,Internacional,3,Mineirão,0,1,MG,RS,RS
+19:00,Domingo,27/04/2025,Bahia,Atlético-MG,Empate,3,Arena Fonte Nova,0,0,BA,MG,Empate
+18:30,Sábado,26/04/2025,São Paulo,Fluminense,São Paulo,3,MorumBIS,2,0,SP,RJ,SP
+19:00,Sábado,26/04/2025,Palmeiras,Corinthians,Empate,3,Allianz Parque,0,0,SP,SP,Empate
+16:00,Domingo,04/05/2025,Cruzeiro,Flamengo,Flamengo,4,Mineirão,1,4,MG,RJ,RJ
+18:30,Domingo,04/05/2025,Grêmio,Atlético-MG,Atlético-MG,4,Arena do Grêmio,0,2,RS,MG,MG
+16:00,Domingo,04/05/2025,São Paulo,Internacional,Internacional,4,MorumBIS,0,2,SP,RS,RS
+19:00,Domingo,04/05/2025,Bahia,Corinthians,Empate,4,Arena Fonte Nova,0,0,BA,SP,Empate
+21:30,Domingo,04/05/2025,Palmeiras,Fluminense,Palmeiras,4,Allianz Parque,1,0,SP,RJ,SP
+19:00,Domingo,11/05/2025,Flamengo,Atlético-MG,Flamengo,5,Maracanã,2,1,RJ,MG,RJ
+19:00,Domingo,11/05/2025,São Paulo,Cruzeiro,Empate,5,MorumBIS,1,1,SP,MG,Empate
+19:00,Domingo,11/05/2025,Grêmio,Corinthians,Grêmio,5,Arena do Grêmio,4,1,RS,SP,RS
+20:00,Domingo,11/05/2025,Palmeiras,Internacional,Palmeiras,5,Allianz Parque,2,0,SP,RS,SP
+16:00,Domingo,11/05/2025,Bahia,Fluminense,Bahia,5,Arena Fonte Nova,2,1,BA,RJ,BA
+18:30,Sábado,17/05/2025,São Paulo,Flamengo,São Paulo,6,MorumBIS,2,0,SP,RJ,SP
+16:00,Domingo,18/05/2025,Atlético-MG,Corinthians,Corinthians,6,Arena MRV,0,2,MG,SP,SP
+18:30,Sábado,17/05/2025,Palmeiras,Cruzeiro,Cruzeiro,6,Allianz Parque,0,1,SP,MG,MG
+20:00,Domingo,18/05/2025,Grêmio,Fluminense,Grêmio,6,Arena do Grêmio,2,0,RS,RJ,RS
+18:30,Domingo,18/05/2025,Bahia,Internacional,Bahia,6,Arena Fonte Nova,1,0,BA,RS,BA
+18:30,Sábado,24/05/2025,Flamengo,Corinthians,Flamengo,7,Maracanã,2,1,RJ,SP,RJ
+19:00,Sábado,24/05/2025,Palmeiras,São Paulo,São Paulo,7,Allianz Parque,0,1,SP,SP,SP
+19:00,Domingo,25/05/2025,Atlético-MG,Fluminense,Atlético-MG,7,Arena MRV,3,1,MG,RJ,MG
+21:30,Domingo,25/05/2025,Bahia,Cruzeiro,Empate,7,Arena Fonte Nova,0,0,BA,MG,Empate
+20:00,Domingo,25/05/2025,Grêmio,Internacional,Empate,7,Arena do Grêmio,0,0,RS,RS,Empate
+16:00,Domingo,01/06/2025,Palmeiras,Flamengo,Flamengo,8,Allianz Parque,1,2,SP,RJ,RJ
+16:00,Domingo,01/06/2025,Corinthians,Fluminense,Empate,8,Neo Química Arena,1,1,SP,RJ,Empate
+21:30,Sábado,31/05/2025,Bahia,São Paulo,Empate,8,Arena Fonte Nova,1,1,BA,SP,Empate
+21:30,Sábado,31/05/2025,Atlético-MG,Internacional,Atlético-MG,8,Arena MRV,3,2,MG,RS,MG
+16:00,Sábado,31/05/2025,Grêmio,Cruzeiro,Grêmio,8,Arena do Grêmio,3,1,RS,MG,RS
+19:00,Sábado,07/06/2025,Flamengo,Fluminense,Empate,9,Maracanã,1,1,RJ,RJ,Empate
+16:00,Domingo,08/06/2025,Bahia,Palmeiras,Bahia,9,Arena Fonte Nova,1,0,BA,SP,BA
+20:00,Domingo,08/06/2025,Corinthians,Internacional,Corinthians,9,Neo Química Arena,3,1,SP,RS,SP
+19:00,Domingo,08/06/2025,Grêmio,São Paulo,Grêmio,9,Arena do Grêmio,2,1,RS,SP,RS
+21:30,Domingo,08/06/2025,Atlético-MG,Cruzeiro,Cruzeiro,9,Arena MRV,0,1,MG,MG,MG
